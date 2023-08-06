@@ -8,7 +8,7 @@ A Simple front end of bookstore made using Bootstrap 4
 - Bootstrap 4
 
 # Live Site
-- https://boostore-mk.netlify.app/
+- https://bookstore-mk1.netlify.app/
 
 # Screenshot
 ![1](https://github.com/Evilking009/Bookstore-website/assets/4027728/efb3db86-fb35-4f19-ba3f-39df3dab7185)
