@@ -179,7 +179,7 @@ header .container .col-md-7 button {
     color: whitesmoke;
 }
 
-.cover .content>p {
+.cover .content > p {
     font-family: var(--rubik);
     font-size: 2vmin;
     color: #e5e5e5;
@@ -249,8 +249,8 @@ header .container .col-md-7 button {
     border-top-left-radius: 170px;
 }
 
-.card-body .pricing>h1 {
-    font-size: 10vmin;
+.card-body .pricing > h1 {
+    font-size: 8vmin;
     padding: 1em 0.5em;
 }
 
